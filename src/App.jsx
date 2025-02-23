@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-    <h1>Merhaba!</h1>
+    <h1 className='text-center'>Merhaba!</h1>
     </>
   )
 }
