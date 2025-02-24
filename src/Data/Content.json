@@ -1,0 +1,62 @@
+{
+    "aboutMe": {
+      "title": {
+        "tr": "Mert",
+        "en": "Mert"
+      },
+      "content": {
+        "tr": "Harika kullanıcı deneyimine sahip ve uyumlu ürünleri tasarlamıyı seven",
+        "en": "I am a Frontend Developer..."
+      }
+    },
+    "skills": {
+      "title": {
+        "tr": "Yetenekler",
+        "en": "Skills"
+      },
+      "list": [
+        "JavaScript",
+        "React",
+        "Tailwind CSS",
+        "Redux",
+        "Node.js"
+      ]
+    },
+    "profile": {
+      "name": "Örnek İsim",
+      "position": {
+        "tr": "Frontend Geliştirici",
+        "en": "Frontend Developer"
+      },
+      "location": "İstanbul, Türkiye",
+      "email": "ornek@mail.com",
+      "phone": "+90 555 555 55 55",
+      "linkedin": "https://www.linkedin.com/in/ornekprofil",
+      "github": "https://github.com/ornekprofil"
+    },
+    "projects": [
+      {
+        "id": 1,
+        "title": {
+          "tr": "Görev Yönetim Uygulaması",
+          "en": "Task Management App"
+        },
+        "description": {
+          "tr": "Görevlerinizi kolayca yönetmenizi sağlayan bir uygulama.",
+          "en": "An app that helps you manage your tasks easily."
+        }
+      },
+      {
+        "id": 2,
+        "title": {
+          "tr": "Hava Durumu Uygulaması",
+          "en": "Weather App"
+        },
+        "description": {
+          "tr": "Anlık hava durumu bilgilerini sağlar.",
+          "en": "Provides real-time weather information."
+        }
+      }
+    ]
+  }
+  
