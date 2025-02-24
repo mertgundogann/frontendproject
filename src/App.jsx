@@ -1,11 +1,19 @@
-import { LanguageProvider } from "./Contexts/LanguageContext";
+import { LanguageProvider, useLanguage } from "./Contexts/LanguageContext";
 import AboutMe from "./Components/Aboutme";
+import Skills from "./Components/Skills";
+
+
 
 function App() {
+ 
+
   return (
     <LanguageProvider>
       <div>
-        <AboutMe />
+        
+        
+        <AboutMe/>
+        <Skills/>
       </div>
     </LanguageProvider>
   );
