@@ -14,6 +14,23 @@
       },
       "image": "assets/profile.png"
       
+    },
+    "skills":{
+      "baslik":{
+        "tr": "Yetenekler",
+        "en" : "Skills"
+      },
+      "logolar":{
+        "java":"assets/javascript.png",
+        "react":"assets/react.png",
+        "redux":"assets/redux.png",
+        "vscode":"assets/vscode.png",
+        "figma":"assets/figma.png",
+        "node":"assets/figma.png"
+      }
+
     }
+    
   }
+  
   

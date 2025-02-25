@@ -1,18 +1,17 @@
 import { useLanguage } from "../Contexts/LanguageContext";
+import Images from "./Images";
 import content from "../data/content.json";
 
-
 const Skills = () => {
-    const { language, toggleLanguage } = useLanguage();
+    const { language } = useLanguage();
 
     return (
-        <section className="">
-            <div className="bg-white">
-        <h1>Selam</h1>
-
-            </div>
-    
-        </section>
+       <section className="mt-20 flex mx-120">
+        <h1 className="text-[#4832d3] font-bold text-5xl">{content.skills.baslik[language]}</h1>
+        <div className="ml-8">
+        <Images/>
+        </div>
+       </section>
     );
 };
 
