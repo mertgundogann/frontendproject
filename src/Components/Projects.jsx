@@ -6,9 +6,9 @@ const Projects = () => {
     const { language, toggleLanguage } = useLanguage();
     return(
         
-        <div className="w-full bg-[#cbf281] pt-20 pl-110">
+        <div className="w-full bg-[#cbf281] pt-20 pl-110 pb-20">
         
-        <h1 className="text-[#4832d3] font-bold text-5xl mb-5 ">Projects</h1>
+        <h1 className="text-[#4832d3] font-bold text-5xl mb-10 ">Projects</h1>
         
         <div className="flex bg-white w-4/5 mb-20">
           

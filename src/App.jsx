@@ -3,6 +3,7 @@ import AboutMe from "./Components/Aboutme";
 import Skills from "./Components/Skills";
 import Profile from "./Components/Profile";
 import Projects from "./Components/Projects";
+import Footer from "./Components/Footer";
 
 function App() {
  
@@ -15,6 +16,7 @@ function App() {
         <Skills/>
         <Profile/>
         <Projects/>
+        <Footer/>
       </div>
     </LanguageProvider>
   );

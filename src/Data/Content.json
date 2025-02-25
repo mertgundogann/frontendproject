@@ -88,6 +88,21 @@
       "en":"A simple website project where users can spend time watching whatever they want, including movies, series, anime and documentaries."
     }
 
+  },
+  "footer":{
+    "footerbaslik":{
+      "tr":"Bana mesajınızı iletebilirsiniz.",
+      "en":"Send me a Message."
+    },
+    "footeryazi":{
+      "tr":"Sorunuz veya istediğiniz başka bir şey hakkında bana ulaşabilirsiniz.",
+      "en":"You can contact me with any questions or anything else you may have."
+    },
+    "footermail":{
+      "tr":"merttgundogan@hotmail.com",
+      "en":"merttgundogan@hotmail.com"
+    }
+    
   }
 
 }
