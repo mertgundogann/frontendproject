@@ -77,5 +77,18 @@
   "tercihdt": {
     "tr": "Tercih ettiği rol",
     "en": "Preferred Role"
+  },
+  "projects":{
+    "pizza":{
+      "tr":"Kullancılara web sitesine giriş sağlayarak seçimlerine göre pizza siparişi vermesini sağlayan bir web sayfası projesi. HTML,CSS ve Javascript kullanılarak yapılmış olup, mobil cihazlara uygun olacak şekilde düzenlendi.",
+      "en":"A web page project that allows users to log in to the website and order pizza according to their choices. It was made using HTML, CSS and Javascript and was designed to be suitable for mobile devices."
+    },
+    "witflix":{
+      "tr":"Kullanıcılara film, dizi, anime ve belgesel gibi seçeneklerle beraber istedikleri şeyleri izleyerek zaman geçirebilecekleri basit bir web site projesi.",
+      "en":"A simple website project where users can spend time watching whatever they want, including movies, series, anime and documentaries."
+    }
+
   }
+
 }
+
