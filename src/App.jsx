@@ -5,19 +5,19 @@ import Profile from "./Components/Profile";
 import Projects from "./Components/Projects";
 import Footer from "./Components/Footer";
 
+
 function App() {
  
 
   return (
     <LanguageProvider>
-      <div>
       
         <AboutMe/>
         <Skills/>
         <Profile/>
         <Projects/>
         <Footer/>
-      </div>
+        
     </LanguageProvider>
   );
 }

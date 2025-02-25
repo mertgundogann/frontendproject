@@ -6,12 +6,15 @@ const Skills = () => {
     const { language } = useLanguage();
 
     return (
-       <section className="mt-20 flex mx-120 mb-20">
-        <h1 className="text-[#4832d3] font-bold text-5xl">{content.skills.baslik[language]}</h1>
-        <div className="ml-8">
-        <Images/>
-        </div>
-       </section>
+       
+        <div className="pt-20 flex w-full pl-120 pb-20 bg-white dark:bg-[#03346E]">
+    <h1 className="text-[#4832d3] font-bold text-5xl dark:text-white ">{content.skills.baslik[language]}</h1>
+    <div className="ml-4">
+        <Images />
+    </div>
+</div>
+
+       
     );
 };
 

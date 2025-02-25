@@ -6,11 +6,11 @@ const Projects = () => {
     const { language, toggleLanguage } = useLanguage();
     return(
         
-        <div className="w-full bg-[#cbf281] pt-20 pl-110 pb-20">
+        <div className="w-full bg-[#cbf281] dark:bg-[#E2E2B6] pt-20 pl-110 pb-20">
         
         <h1 className="text-[#4832d3] font-bold text-5xl mb-10 ">Projects</h1>
         
-        <div className="flex bg-white w-4/5 mb-20">
+        <div className="flex bg-white dark:bg-[#E2E2B6] w-4/5 mb-20">
           
           <div className="w-2/5 mt-3 ml-3">
             <img
@@ -37,7 +37,7 @@ const Projects = () => {
           </div>
           
         </div>
-        <div className="flex bg-white w-4/5 ">
+        <div className="flex bg-white dark:bg-[#E2E2B6] w-4/5 ">
           
           <div className="w-2/5 mt-3 ml-3">
             <img
