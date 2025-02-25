@@ -1,36 +1,81 @@
 {
-    "aboutMe": {
-      "name": {
-        "tr": "mert",
-        "en": "mert"
-      },
-      "title": {
-        "tr": "Ben Frontend geliştiricisiyim.",
-        "en": "I am a Frontend Developer..."
-      },
-      "content": {
-        "tr": "Kullanıcı deneyimine sahip frontend uygulamaları geliştirmeyi seviyorum.",
-        "en": "I love developing front-end applications with user experience."
-      },
-      "image": "assets/profile.png"
-      
+  "aboutMe": {
+    "name": {
+      "tr": "mert",
+      "en": "mert"
     },
-    "skills":{
-      "baslik":{
-        "tr": "Yetenekler",
-        "en" : "Skills"
-      },
-      "logolar":{
-        "java":"assets/javascript.png",
-        "react":"assets/react.png",
-        "redux":"assets/redux.png",
-        "vscode":"assets/vscode.png",
-        "figma":"assets/figma.png",
-        "node":"assets/figma.png"
-      }
-
+    "title": {
+      "tr": "Ben Frontend geliştiricisiyim.",
+      "en": "I am a Frontend Developer."
+    },
+    "content": {
+      "tr": "Kullanıcı deneyimine sahip frontend uygulamaları geliştirmeyi seviyorum.",
+      "en": "I love developing front-end applications with a focus on user experience."
+    },
+    "image": "assets/profile.png"
+  },
+  "skills": {
+    "baslik": {
+      "tr": "Yetenekler",
+      "en": "Skills"
+    },
+    "logolar": {
+      "java": "assets/javascript.png",
+      "react": "assets/react.png",
+      "redux": "assets/redux.png",
+      "vscode": "assets/vscode.png",
+      "figma": "assets/figma.png",
+      "node": "assets/node.png"
     }
-    
+  },
+  "profile": {
+    "baslik": {
+      "tr": "Profil",
+      "en": "Profile"
+    },
+    "baslik2": {
+      "tr": "Bilgilerim",
+      "en": "Basic Information"
+    },
+    "dogumtarihi": {
+      "tr": "04.10.1996",
+      "en": "October 4, 1996"
+    },
+    "ikamet": {
+      "tr": "İstanbul",
+      "en": "Istanbul"
+    }
+  },
+  "egitim": {
+    "tr": "Ayvansaray Üniversitesi, Bilgisayar Programcılığı",
+    "en": "Ayvansaray University, Computer Programming"
+  },
+  "rol": {
+    "tr": "Frontend, UI",
+    "en": "Frontend, UI"
+  },
+  "baslik3": {
+    "tr": "Hakkımda",
+    "en": "About Me"
+  },
+  "yazi": {
+    "tr": "Kullanıcı odaklı arayüzler geliştirme konusunda tutkuluyum.",
+    "en": "I am passionate about developing user-centered interfaces."
+  },
+  "baslikdt": {
+    "tr": "Doğum tarihi",
+    "en": "Date of Birth"
+  },
+  "ikametdt": {
+    "tr": "İkamet şehri",
+    "en": "City of Residence"
+  },
+  "egitimdt": {
+    "tr": "Eğitim durumu",
+    "en": "Education Status"
+  },
+  "tercihdt": {
+    "tr": "Tercih ettiği rol",
+    "en": "Preferred Role"
   }
-  
-  
+}

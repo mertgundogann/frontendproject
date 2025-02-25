@@ -1,7 +1,7 @@
 import { LanguageProvider, useLanguage } from "./Contexts/LanguageContext";
 import AboutMe from "./Components/Aboutme";
 import Skills from "./Components/Skills";
-
+import Profile from "./Components/Profile";
 
 
 function App() {
@@ -13,6 +13,7 @@ function App() {
       
         <AboutMe/>
         <Skills/>
+        <Profile/>
       </div>
     </LanguageProvider>
   );
