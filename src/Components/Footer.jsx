@@ -7,8 +7,8 @@ const Footer = () =>{
     return(
 
         <div>
-            <div className="text-center pt-15 pb-20 dark:bg-black dark:text-white">
-                <h1 className="text-[#4832d3] font-bold text-4xl dark:text-white">{content.footer.footerbaslik[language]}</h1>
+            <div className="text-center pt-15 pb-20 dark:bg-[#252128] dark:text-white">
+                <h1 className="text-[#4832d3] font-bold text-4xl dark:text-[#8f88ff]">{content.footer.footerbaslik[language]}</h1>
                 <p className="mt-5">{content.footer.footeryazi[language]}</p>
                 <span className="text-[#9a8fe4] font-bold underline block mt-5">{content.footer.footermail[language]}</span>
                 <div className="mt-4">

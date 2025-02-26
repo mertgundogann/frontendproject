@@ -16,17 +16,14 @@ const imageList = [
 
 const Images = () => {
   return (
-    <div className="px-4 ">
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 lg:ml-20 dark">
+    <div className="px-4 md:px-10">
+      <div className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-2 gap-6 md:gap-8 ">
         {imageList.map((image, index) => (
-          <div
-            key={index}
-            className="flex flex-row items-center p-4  "
-          >
+          <div key={index} className="flex items-center justify-center p-4">
             <img
               src={image.src}
               alt={image.alt}
-              className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 object-contain"
+              className="w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 object-contain"
             />
             <span className="ml-4 text-sm sm:text-base font-bold text-black dark:text-white">
               {image.alt}
