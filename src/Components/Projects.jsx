@@ -12,7 +12,7 @@ const Projects = () => {
 
                 <div className="w-2/5 mt-3 ml-3 dark:mt-0 dark:ml-0 max-[639px]:w-full max-[639px]:mx-auto">
                     <img
-                        src="public/images/pizzaprojesiresmi.png"
+                        src="https://i.ibb.co/99SXFv6Y/pizzaprojesiresmi.png"
                         alt="Resim"
                         className="w-full h-auto"
                     />
@@ -37,7 +37,7 @@ const Projects = () => {
 
                 <div className="w-2/5 mt-3 ml-3 dark:mt-0 dark:ml-0 max-[639px]:w-full max-[639px]:mx-auto">
                     <img
-                        src="public/images/witflix.png"
+                        src="https://i.ibb.co/s9Y6B4NG/witflix.png"
                         alt="Resim"
                         className="w-full h-auto"
                     />
