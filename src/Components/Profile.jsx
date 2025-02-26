@@ -1,5 +1,5 @@
 import { useLanguage } from "../Contexts/LanguageContext";
-import content from "../data/content.json";
+import content from "../../public/Data/content.json"
 
 const Profile = () => {
     const { language } = useLanguage();

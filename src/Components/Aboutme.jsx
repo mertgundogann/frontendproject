@@ -1,5 +1,5 @@
 import { useLanguage } from "../Contexts/LanguageContext";
-import content from "../data/content.json";
+import content from "../../public/Data/content.json"
 import profileImage from '../assets/profile.png';
 import { useEffect, useState } from 'react';
 

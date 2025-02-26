@@ -1,6 +1,6 @@
 import { useLanguage } from "../Contexts/LanguageContext";
 import Images from "./Images";
-import content from "../data/content.json";
+import content from "../../public/Data/content.json"
 
 const Skills = () => {
     const { language } = useLanguage();
